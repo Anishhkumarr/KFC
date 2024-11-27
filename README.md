@@ -1,2 +1,2 @@
-# KFC
+# KFC-landing-page
 Web page
